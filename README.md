@@ -1,2 +1,2 @@
-# Spring--Boot-Banking--App
-This code is all about bank operation we provide facility to our customer to access our bank facility from any where.
+# Spring--Boot-Employee-Management-App
+In this project we use spring boot, core java , advanced java concept.ang mysql database.
